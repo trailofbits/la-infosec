@@ -35,6 +35,7 @@ permalink: /companies/
 * [Grindr](https://www.grindr.com/)
 * [Legendary Pictures](https://www.legendary.com/)
 * [Prodege](https://www.prodege.com)
+* [Realtor.com](https://www.realtor.com/)
 * [Ring](https://ring.com/)
 * [Riot Games](https://www.riotgames.com/en)
 * [Rival](https://rival.co/)
