@@ -9,6 +9,7 @@ footer: an event
 ## Meetups
 * [Cloud Security Alliance LA](https://www.meetup.com/LASC-CSA/)
 * [CyberJutsu SoCal](https://www.meetup.com/SoCal-Women-in-Cybersecurity/)
+* [DefCon 310](https://www.meetup.com/DefCon-310/)
 * [ISSA LA](https://issala.org/)
 * [OWASP LA](https://www.meetup.com/OWASP-Los-Angeles/)
 * [South Bay WASP](https://www.meetup.com/SouthBayWASP/)
