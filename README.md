@@ -12,7 +12,7 @@ footer: an event
 * [DefCon 310](https://www.meetup.com/DefCon-310/)
 * [ISSA LA](https://issala.org/)
 * [OWASP LA](https://www.meetup.com/OWASP-Los-Angeles/)
-* [OWASP San Fernando Valley](https://www.meetup.com/OWASP-San-Fernando-Valley-Chapter/)
+* [OWASP San Fernando](https://www.meetup.com/OWASP-San-Fernando-Valley-Chapter/)
 * [South Bay WASP](https://www.meetup.com/SouthBayWASP/)
 * [WiCyS SoCal](https://www.linkedin.com/company/wicys-socal/)
 
